@@ -1,0 +1,15 @@
+# build / IDE
+build/
+.gradle/
+.idea/
+*.iml
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# secrets
+*.keystore
+*.jks
+.env
